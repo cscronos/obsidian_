@@ -33,6 +33,7 @@ Luego ya esto configurado para empezar con los repositorios
 git init
 git add . #subimos el archivo que modificamos
 git commit -m "descrip"
+git status #para subir los cambios
 ```
 
 fin?
