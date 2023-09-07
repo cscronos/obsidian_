@@ -32,5 +32,7 @@ Luego ya esto configurado para empezar con los repositorios
 ```bash
 git init
 git add . #subimos el archivo que modificamos
-
+git commit -m "descrip"
 ```
+
+fin?
